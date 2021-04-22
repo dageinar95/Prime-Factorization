@@ -2,7 +2,7 @@
  
 The program contains both a sequential and parallel algorithm for finding all prime numbers up to n (using the Sieve of Eratosthenes), and then factorizes the 100 largest primes in n^2. 
 
-To use the program, first compile it using:
+To run the program, first compile it using:
 
 javac PrimeFactorization.java
 
